@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Airbnb dashboard\"\noutput: \n  flexdashboard::flex_dashboard:\n    orientation: columns\n    vertical_layout: fill\n---\n\n```{r setup, include=FALSE}\nlibrary(flexdashboard)\n```\n\nColumn {data-width=650}\n-----------------------------------------------------------------------\n\n### Chart A\n\n```{r}\n\n```\n\nColumn {data-width=350}\n-----------------------------------------------------------------------\n\n### Chart B\n\n```{r}\n\n```\n\n### Chart C\n\n```{r}\n\n```\n\n",
+    "created" : 1509559097897.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1435442584",
+    "id" : "1EC3DEBD",
+    "lastKnownWriteTime" : 1509559152,
+    "last_content_update" : 1509559222651,
+    "path" : "~/Desktop/DSI/interactivity/airbnb_dashboard.Rmd",
+    "project_path" : "airbnb_dashboard.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
