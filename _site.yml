@@ -2,6 +2,11 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
+  left:
+    - text: "Poltly"
+      href: interactivity.html
+    - text: "Dashboard"
+      href: airbnb_dashboard.html
   right:
     - text: "About"
       href: about.html
